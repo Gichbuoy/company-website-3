@@ -88,8 +88,8 @@
           </div>
           <div class="ui one column row">
             <div class="ui right aligned column">
-              <a id="footerTextColor" target="_blank" href="https://www.clasxsoft.com">
-                <i>ClasX Software &reg;</i>
+              <a id="footerTextColor" target="_blank" href="https://www.examplesoft.com">
+                <i>Example Software &reg;</i>
               </a>
             </div>
           </div>
